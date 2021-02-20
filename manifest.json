@@ -1,0 +1,38 @@
+{
+  "name": "Chi Ba",
+  "short_name": "Chi Ba",
+  "start_url": "https://chibaworld.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Shípu hé shíwù de jíhé. Cházhao nín xihuan de gè zhong rìcháng jiatíng shípu. Shíyòng qie yìyú yìngyòng",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-FaVLEwMtHc8/YDE9i_r4F9I/AAAAAAAADGo/zFOSrFlRkFEEae3jfezfE-hGlhWtighHwCLcBGAsYHQ/s48/httpschibaworld.blogspot.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FaVLEwMtHc8/YDE9i_r4F9I/AAAAAAAADGo/zFOSrFlRkFEEae3jfezfE-hGlhWtighHwCLcBGAsYHQ/s72/httpschibaworld.blogspot.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FaVLEwMtHc8/YDE9i_r4F9I/AAAAAAAADGo/zFOSrFlRkFEEae3jfezfE-hGlhWtighHwCLcBGAsYHQ/s96/httpschibaworld.blogspot.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FaVLEwMtHc8/YDE9i_r4F9I/AAAAAAAADGo/zFOSrFlRkFEEae3jfezfE-hGlhWtighHwCLcBGAsYHQ/s144/httpschibaworld.blogspot.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FaVLEwMtHc8/YDE9i_r4F9I/AAAAAAAADGo/zFOSrFlRkFEEae3jfezfE-hGlhWtighHwCLcBGAsYHQ/s168/httpschibaworld.blogspot.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FaVLEwMtHc8/YDE9i_r4F9I/AAAAAAAADGo/zFOSrFlRkFEEae3jfezfE-hGlhWtighHwCLcBGAsYHQ/s192/httpschibaworld.blogspot.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FaVLEwMtHc8/YDE9i_r4F9I/AAAAAAAADGo/zFOSrFlRkFEEae3jfezfE-hGlhWtighHwCLcBGAsYHQ/s512/httpschibaworld.blogspot.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
